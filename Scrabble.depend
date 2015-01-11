@@ -1,0 +1,543 @@
+# depslib dependency file v1.0
+1357731872 source:c:\users\nabin\desktop\scrabble\src\drawengine.cpp
+	"DrawEngine.h"
+
+1215454408 source:c:\users\nabin\desktop\scrabble\src\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1215454408 c:\users\nabin\desktop\scrabble\src\soil.h
+
+1215454408 c:\users\nabin\desktop\scrabble\src\stb_image_aug.h
+	<stdio.h>
+
+1215454408 c:\users\nabin\desktop\scrabble\src\image_helper.h
+
+1215454408 c:\users\nabin\desktop\scrabble\src\image_dxt.h
+
+1362674057 source:c:\users\nabin\desktop\scrabble\src\bag.cpp
+	"bag.h"
+
+1360833132 source:c:\users\nabin\desktop\scrabble\src\board.cpp
+	"board.h"
+
+1357903954 source:c:\users\nabin\desktop\scrabble\src\bufferposition.cpp
+	"bufferPosition.h"
+
+1361503830 source:c:\users\nabin\desktop\scrabble\src\harvey.cpp
+	"harvey.h"
+
+1215454408 source:c:\users\nabin\desktop\scrabble\src\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215454408 source:c:\users\nabin\desktop\scrabble\src\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1360390459 source:c:\users\nabin\desktop\scrabble\src\letter.cpp
+	"letter.h"
+
+1360567030 source:c:\users\nabin\desktop\scrabble\src\node.cpp
+	"node.h"
+
+1360833132 source:c:\users\nabin\desktop\scrabble\src\player.cpp
+	"player.h"
+
+1362639514 source:c:\users\nabin\desktop\scrabble\src\position.cpp
+	"position.h"
+
+1215454408 source:c:\users\nabin\desktop\scrabble\src\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215454408 c:\users\nabin\desktop\scrabble\src\stbi_dds_aug.h
+
+1215454408 c:\users\nabin\desktop\scrabble\src\stbi_dds_aug_c.h
+
+1360458205 source:c:\users\nabin\desktop\scrabble\src\test_soil.cpp
+	<cstdio>
+	<time.h>
+	<string>
+	<iostream>
+	<windows.h>
+	<shellapi.h>
+	<gl/gl.h>
+	<gl/glext.h>
+	"SOIL.h"
+
+1363022383 source:c:\users\nabin\desktop\scrabble\main.cpp
+	"GL\glut.h"
+	"SOIL.h"
+	<cstring>
+	"game.h"
+
+1363024660 source:c:\users\nabin\desktop\scrabble\src\game.cpp
+	"game.h"
+	<fstream>
+	<cstring>
+	<cmath>
+
+1357731928 c:\users\nabin\desktop\scrabble\include\drawengine.h
+	<windows.h>
+	"board.h"
+
+1360831890 c:\users\nabin\desktop\scrabble\include\board.h
+	"player.h"
+
+1361839752 c:\users\nabin\desktop\scrabble\include\player.h
+	"position.h"
+	"bag.h"
+
+1360568794 c:\users\nabin\desktop\scrabble\include\position.h
+	"letter.h"
+
+1360390419 c:\users\nabin\desktop\scrabble\include\letter.h
+
+1360831986 c:\users\nabin\desktop\scrabble\include\bag.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<time.h>
+	"letter.h"
+
+1357904244 c:\users\nabin\desktop\scrabble\include\bufferposition.h
+	<vector>
+	"position.h"
+
+1363099953 c:\users\nabin\desktop\scrabble\include\harvey.h
+	<fstream>
+	"player.h"
+	"board.h"
+	"node.h"
+	"drawEngine.h"
+	"conio.h"
+
+1360566899 c:\users\nabin\desktop\scrabble\include\node.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1363114962 c:\users\nabin\desktop\scrabble\include\game.h
+	"GL\glut.h"
+	"SOIL.h"
+	<iostream>
+	<stdlib.h>
+	"letter.h"
+	"position.h"
+	"bufferPosition.h"
+	"bag.h"
+	"player.h"
+	"node.h"
+	"harvey.h"
+	"aster.h"
+	"board.h"
+	"drawengine.h"
+
+1360833132 c:\users\nabin\desktop\scrabble\src\player.cpp
+	"player.h"
+
+1358589789 c:\users\nabin\desktop\scrabble\include\aster.h
+	<fstream>
+	"player.h"
+	"harvey.h"
+	"board.h"
+	"node.h"
+	"drawEngine.h"
+
+1360568857 c:\users\nabin\desktop\scrabble\src\position.cpp
+	"position.h"
+
+1363114986 source:c:\users\nabin\desktop\project\scrabble\main.cpp
+	"GL\glut.h"
+	"SOIL.h"
+	<cstring>
+	"game.h"
+
+1357731872 source:c:\users\nabin\desktop\project\scrabble\src\drawengine.cpp
+	"DrawEngine.h"
+
+1215454408 source:c:\users\nabin\desktop\project\scrabble\src\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1215454408 c:\users\nabin\desktop\project\scrabble\src\soil.h
+
+1215454408 c:\users\nabin\desktop\project\scrabble\src\stb_image_aug.h
+	<stdio.h>
+
+1215454408 c:\users\nabin\desktop\project\scrabble\src\image_helper.h
+
+1215454408 c:\users\nabin\desktop\project\scrabble\src\image_dxt.h
+
+1362674058 source:c:\users\nabin\desktop\project\scrabble\src\bag.cpp
+	"bag.h"
+
+1360833134 source:c:\users\nabin\desktop\project\scrabble\src\board.cpp
+	"board.h"
+
+1357903954 source:c:\users\nabin\desktop\project\scrabble\src\bufferposition.cpp
+	"bufferPosition.h"
+
+1363115026 source:c:\users\nabin\desktop\project\scrabble\src\game.cpp
+	"game.h"
+	<fstream>
+	<cstring>
+	<cmath>
+
+1361503832 source:c:\users\nabin\desktop\project\scrabble\src\harvey.cpp
+	"harvey.h"
+
+1215454408 source:c:\users\nabin\desktop\project\scrabble\src\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215454408 source:c:\users\nabin\desktop\project\scrabble\src\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1360390460 source:c:\users\nabin\desktop\project\scrabble\src\letter.cpp
+	"letter.h"
+
+1360567032 source:c:\users\nabin\desktop\project\scrabble\src\node.cpp
+	"node.h"
+
+1360833134 source:c:\users\nabin\desktop\project\scrabble\src\player.cpp
+	"player.h"
+
+1362639516 source:c:\users\nabin\desktop\project\scrabble\src\position.cpp
+	"position.h"
+
+1215454408 source:c:\users\nabin\desktop\project\scrabble\src\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215454408 c:\users\nabin\desktop\project\scrabble\src\stbi_dds_aug.h
+
+1215454408 c:\users\nabin\desktop\project\scrabble\src\stbi_dds_aug_c.h
+
+1360458206 source:c:\users\nabin\desktop\project\scrabble\src\test_soil.cpp
+	<cstdio>
+	<time.h>
+	<string>
+	<iostream>
+	<windows.h>
+	<shellapi.h>
+	<gl/gl.h>
+	<gl/glext.h>
+	"SOIL.h"
+
+1363114986 source:c:\users\nabin\desktop\scrabble(with minimax)\main.cpp
+	"GL\glut.h"
+	"SOIL.h"
+	<cstring>
+	"game.h"
+
+1357731872 source:c:\users\nabin\desktop\scrabble(with minimax)\src\drawengine.cpp
+	"DrawEngine.h"
+
+1215454408 source:c:\users\nabin\desktop\scrabble(with minimax)\src\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1215454408 c:\users\nabin\desktop\scrabble(with minimax)\src\soil.h
+
+1215454408 c:\users\nabin\desktop\scrabble(with minimax)\src\stb_image_aug.h
+	<stdio.h>
+
+1215454408 c:\users\nabin\desktop\scrabble(with minimax)\src\image_helper.h
+
+1215454408 c:\users\nabin\desktop\scrabble(with minimax)\src\image_dxt.h
+
+1362674058 source:c:\users\nabin\desktop\scrabble(with minimax)\src\bag.cpp
+	"bag.h"
+
+1360833134 source:c:\users\nabin\desktop\scrabble(with minimax)\src\board.cpp
+	"board.h"
+
+1357903954 source:c:\users\nabin\desktop\scrabble(with minimax)\src\bufferposition.cpp
+	"bufferPosition.h"
+
+1363144276 source:c:\users\nabin\desktop\scrabble(with minimax)\src\game.cpp
+	"game.h"
+	<fstream>
+	<cstring>
+	<cmath>
+
+1363160110 source:c:\users\nabin\desktop\scrabble(with minimax)\src\harvey.cpp
+	"harvey.h"
+
+1215454408 source:c:\users\nabin\desktop\scrabble(with minimax)\src\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215454408 source:c:\users\nabin\desktop\scrabble(with minimax)\src\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1360390460 source:c:\users\nabin\desktop\scrabble(with minimax)\src\letter.cpp
+	"letter.h"
+
+1360567032 source:c:\users\nabin\desktop\scrabble(with minimax)\src\node.cpp
+	"node.h"
+
+1360833134 source:c:\users\nabin\desktop\scrabble(with minimax)\src\player.cpp
+	"player.h"
+
+1362639516 source:c:\users\nabin\desktop\scrabble(with minimax)\src\position.cpp
+	"position.h"
+
+1215454408 source:c:\users\nabin\desktop\scrabble(with minimax)\src\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215454408 c:\users\nabin\desktop\scrabble(with minimax)\src\stbi_dds_aug.h
+
+1215454408 c:\users\nabin\desktop\scrabble(with minimax)\src\stbi_dds_aug_c.h
+
+1360458206 source:c:\users\nabin\desktop\scrabble(with minimax)\src\test_soil.cpp
+	<cstdio>
+	<time.h>
+	<string>
+	<iostream>
+	<windows.h>
+	<shellapi.h>
+	<gl/gl.h>
+	<gl/glext.h>
+	"SOIL.h"
+
+1363144220 c:\users\nabin\desktop\scrabble(with minimax)\include\game.h
+	"GL\glut.h"
+	"SOIL.h"
+	<iostream>
+	<stdlib.h>
+	"letter.h"
+	"position.h"
+	"bufferPosition.h"
+	"bag.h"
+	"player.h"
+	"node.h"
+	"harvey.h"
+	"aster.h"
+	"board.h"
+	"drawengine.h"
+
+1360390420 c:\users\nabin\desktop\scrabble(with minimax)\include\letter.h
+
+1360568796 c:\users\nabin\desktop\scrabble(with minimax)\include\position.h
+	"letter.h"
+
+1357904244 c:\users\nabin\desktop\scrabble(with minimax)\include\bufferposition.h
+	<vector>
+	"position.h"
+
+1360831988 c:\users\nabin\desktop\scrabble(with minimax)\include\bag.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<time.h>
+	"letter.h"
+
+1361839754 c:\users\nabin\desktop\scrabble(with minimax)\include\player.h
+	"position.h"
+	"bag.h"
+
+1360566900 c:\users\nabin\desktop\scrabble(with minimax)\include\node.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1363073645 c:\users\nabin\desktop\scrabble(with minimax)\include\harvey.h
+	<fstream>
+	"player.h"
+	"board.h"
+	"node.h"
+	"drawEngine.h"
+	"conio.h"
+
+1360831892 c:\users\nabin\desktop\scrabble(with minimax)\include\board.h
+	"player.h"
+
+1357731928 c:\users\nabin\desktop\scrabble(with minimax)\include\drawengine.h
+	<windows.h>
+	"board.h"
+
+1358589790 c:\users\nabin\desktop\scrabble(with minimax)\include\aster.h
+	<fstream>
+	"player.h"
+	"harvey.h"
+	"board.h"
+	"node.h"
+	"drawEngine.h"
+
+1363114988 source:d:\scrabble(with minimax)\main.cpp
+	"GL\glut.h"
+	"SOIL.h"
+	<cstring>
+	"game.h"
+
+1357731872 source:d:\scrabble(with minimax)\src\drawengine.cpp
+	"DrawEngine.h"
+
+1215454408 source:d:\scrabble(with minimax)\src\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1215454408 d:\scrabble(with minimax)\src\soil.h
+
+1215454408 d:\scrabble(with minimax)\src\stb_image_aug.h
+	<stdio.h>
+
+1215454408 d:\scrabble(with minimax)\src\image_helper.h
+
+1215454408 d:\scrabble(with minimax)\src\image_dxt.h
+
+1362674058 source:d:\scrabble(with minimax)\src\bag.cpp
+	"bag.h"
+
+1360833134 source:d:\scrabble(with minimax)\src\board.cpp
+	"board.h"
+
+1357903954 source:d:\scrabble(with minimax)\src\bufferposition.cpp
+	"bufferPosition.h"
+
+1363160326 source:d:\scrabble(with minimax)\src\game.cpp
+	"game.h"
+	<fstream>
+	<cstring>
+	<cmath>
+
+1363160326 source:d:\scrabble(with minimax)\src\harvey.cpp
+	"harvey.h"
+
+1215454408 source:d:\scrabble(with minimax)\src\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215454408 source:d:\scrabble(with minimax)\src\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1360390460 source:d:\scrabble(with minimax)\src\letter.cpp
+	"letter.h"
+
+1360567032 source:d:\scrabble(with minimax)\src\node.cpp
+	"node.h"
+
+1360833134 source:d:\scrabble(with minimax)\src\player.cpp
+	"player.h"
+
+1362639516 source:d:\scrabble(with minimax)\src\position.cpp
+	"position.h"
+
+1215454408 source:d:\scrabble(with minimax)\src\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215454408 d:\scrabble(with minimax)\src\stbi_dds_aug.h
+
+1215454408 d:\scrabble(with minimax)\src\stbi_dds_aug_c.h
+
+1360458206 source:d:\scrabble(with minimax)\src\test_soil.cpp
+	<cstdio>
+	<time.h>
+	<string>
+	<iostream>
+	<windows.h>
+	<shellapi.h>
+	<gl/gl.h>
+	<gl/glext.h>
+	"SOIL.h"
+
